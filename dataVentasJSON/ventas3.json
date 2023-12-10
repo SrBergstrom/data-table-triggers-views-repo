@@ -1,0 +1,14 @@
+{
+    "idVenta": 3,
+    "idCliente": 3,
+    "idUsuario": 6,
+    "tipoComprobante": "Boleta",
+    "serieComprobante": "V-0003",
+    "numComprobante": "N-00003",
+    "estado": "Pagado",
+    "detalleVentas": [
+        {"idArticulo": 1, "cantidad": 2},
+        {"idArticulo": 3, "cantidad": 1}
+    ]
+}
+
