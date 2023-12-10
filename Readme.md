@@ -1,5 +1,7 @@
 # 📙 data-table-triggers-views-repo
 
+[CLICK AQUI -> PANORAMA GENERAL DATABASE TIENDA](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2OlV1l1-nDLOhjQSxX63VqOE4MNZjz4Mlddd09AuZ3lGGyhRu4_z720rBVY365Q/pubhtml#)
+
 Este repositorio alberga el resultado de mi proyecto final del curso de coder de MySQL, centrado en el diseño y desarrollo de una base de datos para una pequeña tienda online. Durante el curso, identifiqué cuidadosamente las entidades y atributos clave, creé un diagrama de entidad-relación y establecí las bases para la gestión de datos.
 
 El proyecto abarca:
