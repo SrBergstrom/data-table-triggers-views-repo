@@ -1,0 +1,13 @@
+{
+    "idIngreso": 1,
+    "idCliente": 5,
+    "idUsuario": 8,
+    "tipoComprobante": "Factura",
+    "serieComprobante": "F-0001",
+    "numComprobante": "N-00001",
+    "estado": "Pagado",
+    "detalleIngresos": [
+        {"idArticulo": 6, "cantidad": 5, "precio": 90},
+        {"idArticulo": 5, "cantidad": 10, "precio": 3400}
+    ]
+}
