@@ -147,6 +147,7 @@ DELIMITER ;
         - Asegúrese de que la ruta del archivo proporcionada sea correcta.
 */
 
+-- Inserción en la tabla 'ventas' y 'detalle_ventas'
 CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas1.json');
 CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas2.json');
 CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas3.json');

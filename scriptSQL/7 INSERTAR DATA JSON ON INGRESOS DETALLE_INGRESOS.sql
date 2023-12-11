@@ -148,6 +148,7 @@ DELIMITER ;
         - Asegúrese de que la ruta del archivo proporcionada sea correcta.
 */
 
+-- Inserción en la tabla 'ingresos' y 'detalle_ingresos'
 CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso1.json');
 CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso2.json');
 CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso3.json');
