@@ -149,5 +149,20 @@ DELIMITER ;
 */
 
 CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso1.json');
+CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso2.json');
+CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso3.json');
+CALL CargarYInsertarIngreso('C:/Users/ALBERTO/Desktop/CODER2/dataIngresosJSON/ingreso4.json');
+
+
+
+
+
+
+
+
+
+
+
+
 
 

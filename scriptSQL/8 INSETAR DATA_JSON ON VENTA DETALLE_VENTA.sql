@@ -148,6 +148,21 @@ DELIMITER ;
 */
 
 CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas1.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas2.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas3.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas4.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas5.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas6.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas7.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas8.json');
+CALL CargarYInsertarVenta('C:/Users/ALBERTO/Desktop/CODER2/dataVentasJSON/ventas9.json');
+
+
+
+
+
+
+
 
 
 

@@ -28,4 +28,5 @@ Uso de triggers para actualizar automáticamente columnas calculadas, como el st
 ### ✅ Vistas para Consultas Eficientes:
 
 Creación de vistas que facilitan consultas frecuentes y análisis de datos.
+
 Este repositorio representa mi aprendizaje y aplicación práctica de los conceptos fundamentales de MySQL para el diseño y desarrollo de bases de datos. 
