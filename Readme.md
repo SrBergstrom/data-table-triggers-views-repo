@@ -8,25 +8,25 @@ El proyecto abarca:
 
 ### ✅ Modelado de Datos:
 
-Identificación de entidades y atributos.
+* Identificación de entidades y atributos.
 
-Creación del diagrama de entidad-relación.
+* Creación del diagrama de entidad-relación.
 
 ### ✅ Tablas Dimensionales:
 
-Desarrollo de las tablas dimensionales esenciales.
+* Desarrollo de las tablas dimensionales esenciales.
 
 ### ✅ Lógica de Negocio:
 
-Implementación de funciones, procedimientos y triggers para respaldar la operación de la tienda online.
+* Implementación de funciones, procedimientos y triggers para respaldar la operación de la tienda online.
 
 ### ✅ Transacciones y Actualización Automática:
 
-Llenado de las tablas transaccionales.
-Uso de triggers para actualizar automáticamente columnas calculadas, como el stock después de cada transacción.
+* Llenado de las tablas transaccionales.
+* Uso de triggers para actualizar automáticamente columnas calculadas, como el stock después de cada transacción.
 
 ### ✅ Vistas para Consultas Eficientes:
 
-Creación de vistas que facilitan consultas frecuentes y análisis de datos.
+* Creación de vistas que facilitan consultas frecuentes y análisis de datos.
 
 Este repositorio representa mi aprendizaje y aplicación práctica de los conceptos fundamentales de MySQL para el diseño y desarrollo de bases de datos. 
